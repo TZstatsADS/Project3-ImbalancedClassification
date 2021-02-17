@@ -4,7 +4,7 @@
 
 ### [Full Project Description](doc/project3_desc.md)
 
-Term: Fall 2020
+Term: Spring 2021
 
 + Team ##
 + Team members
