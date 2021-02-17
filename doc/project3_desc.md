@@ -1,4 +1,4 @@
-## STAT GU4243/GR5243 Fall 2020 Applied Data Science
+## STAT GU4243/GR5243 Spring 2021 Applied Data Science
 ### Project 3 Predictive analytics: model evaluation and selection on imbalanced data
 
 ### -- for a facial emotion recognition task
@@ -40,10 +40,10 @@ For this project, you are to carry out a business feasibility evaluation project
 
 ##### Project time table.
 
-- week 1 (Oct 14): introduction and project description
-- week 2 (Oct 21): image processing and feature extraction
-- week 3-4 (Oct 28 and Nov 4): supervised learning and model assessment
-- Final presentation (Nov 4)
+- week 1 (Feb 17): introduction and project description
+- week 2 (Feb 24): image processing and feature extraction
+- week 3-4 (Mar 10 and Mar 17): supervised learning and model assessment
+- Final presentation (Mar 17)
 
 ##### Project learning support 
 
